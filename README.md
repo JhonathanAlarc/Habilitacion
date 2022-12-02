@@ -1,2 +1,0 @@
-# Habilitacion
-Sprint 1
